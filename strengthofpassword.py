@@ -25,3 +25,4 @@ elif(total_count == 3):
     print("The password is strong")
 elif(total_count == 4):
     print("The password is very strong")
+print("This is end of program")
